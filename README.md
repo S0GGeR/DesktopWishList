@@ -1,4 +1,4 @@
-# This is my production project, whose has written with Python3, PyQT5 and MySQL
+# This is my test project, whose has written with Python3, PyQT5 and MySQL
 This is instruction for UNIX-systems. I'm sure, that's work on Debian and Ubuntu. You can try GIT BASH for Windows. 
 
 First of all you need to clone project to local computer. 
