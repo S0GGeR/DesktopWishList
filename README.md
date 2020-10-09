@@ -17,7 +17,7 @@ source venv/bin/activate
 
 After this, you need to install all requirments. The command is:    
 ```python3    
-python manage.py -r req.txt
+pip install -r req.txt
 ```    
 
 If everything is okay, we need to set up our MySQL:
